@@ -6,11 +6,11 @@ project you agree to abide by its terms.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
+To submit a GitHub app to the list, please do the following: 
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Find a link to the App you want to recommend. Use the link from the GitHub marketplace, not a GitHub repository.  
+- Find the appropriate place for your App. Feel free to recommend new sections. 
+- Add a short, one-line description of what the App does. 
 
 Thank you for your suggestions!
 
